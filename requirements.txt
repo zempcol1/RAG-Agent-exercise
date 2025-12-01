@@ -160,6 +160,7 @@ scipy==1.16.0
 seaborn==0.13.2
 Send2Trash==1.8.3
 setuptools==80.9.0
+sentence-transformers==5.1.2
 shapely==2.1.2
 six==1.17.0
 smmap==5.0.2
@@ -173,7 +174,7 @@ terminado==0.18.1
 threadpoolctl==3.6.0
 tiktoken==0.12.0
 tinycss2==1.4.0
-torch==2.7.1+cpu
+torch==2.7.1
 tornado==6.5.1
 traitlets==5.14.3
 types-python-dateutil==2.9.0.20250708
@@ -192,3 +193,4 @@ websockets==15.0.1
 xxhash==3.6.0
 yarl==1.22.0
 zstandard==0.25.0
+openai==2.8.1
