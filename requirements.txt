@@ -2,6 +2,7 @@ aiohappyeyeballs==2.6.1
 aiohttp==3.13.1
 aiosignal==1.4.0
 annotated-types==0.7.0
+anthropic==0.75.0
 anyio==4.9.0
 argon2-cffi==25.1.0
 argon2-cffi-bindings==21.2.0
